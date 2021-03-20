@@ -1,0 +1,7 @@
+ferst str
+second str
+thert str
+add 1
+add 2
+23
+33
